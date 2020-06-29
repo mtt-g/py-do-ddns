@@ -1,0 +1,11 @@
+api_key: [API Key - Generate one here https://cloud.digitalocean.com/account/api/tokens]
+
+domains:
+  example.com:
+    - subdomain1
+    - subdomain2
+  example.net:
+    - subdomain1
+    - subdomain2
+
+public_ip_api_uri: https://api.ipify.org
